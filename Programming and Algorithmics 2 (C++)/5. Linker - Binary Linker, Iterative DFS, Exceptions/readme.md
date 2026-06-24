@@ -39,7 +39,7 @@ Pro zjednodušení předpokládáme, že všechny adresy mají velikost 32 bitů
 | +????                   | 4B       | N – počet odkazů na tuto funkci (kolikrát je volána)                                           |
 | +????                   | N×4B     | seznam offsetů (každý 4 B) s umístěním volání funkce (v bajtech od začátku bloku přeloženého kódu) |
 
-![image](images/pic.png)
+![image](reference_images/pic.png)
 
 Požadovaná třída ***CLinker*** má rozhraní:
 
