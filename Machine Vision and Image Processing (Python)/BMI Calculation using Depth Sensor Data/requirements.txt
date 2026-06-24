@@ -1,0 +1,12 @@
+nbconvert
+jupyter-client
+jupyter-contrib-nbextensions
+jupyter-nbextensions-configurator
+opencv-python
+matplotlib
+pytesseract
+Pillow
+scikit-image
+natsort
+ipywidgets
+improutils
